@@ -59,7 +59,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: timalsinadipendra125@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername) *(Update this)*
+- 💼 LinkedIn: https://www.linkedin.com/in/dipendra-timalsina-24776725a/
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dipendra1186&show_icons=true&theme=tokyonight" width="47%" />
